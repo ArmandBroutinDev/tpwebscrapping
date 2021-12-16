@@ -1,0 +1,6 @@
+version: "3.0"
+services:
+  scrap_service:
+    build: .
+    container_name: pokemons_ranking
+    
